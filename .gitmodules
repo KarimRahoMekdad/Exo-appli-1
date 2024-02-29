@@ -1,0 +1,3 @@
+[submodule "go-fullstack-v3-fr"]
+	path = go-fullstack-v3-fr
+	url = https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git
